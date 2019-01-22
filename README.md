@@ -230,9 +230,7 @@ httpd.conf配置文件中加载了mod_rewrite.so模块  //在APACHE里面去配�
   **调用例子:**
   `http://ip/index.php/api/News/local_news?name=广东省_深圳市&page=0`
 
-  返回数据(每次返回是10条数据,这里就不全部列出来了)如下图:
-  ```
-   ```
+  返回数据(每次返回是10条数据,这里就不全部列出来了)
 
 
 
@@ -251,9 +249,7 @@ httpd.conf配置文件中加载了mod_rewrite.so模块  //在APACHE里面去配�
       
  **调用例子:**  `http://localhost/index.php/api/Video/index`
       
-      返回数据(每次返回是10条数据,这里就不全部列出来了)如下图:
-      ```
-      ```
+      返回数据(每次返回是10条数据,这里就不全部列出来了)
 
 ### 2.2 视频分类列表
 **必选参数:**
